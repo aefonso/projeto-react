@@ -3,7 +3,6 @@ function Form() {
     e.preventDefault()
     console.log('Cadastrou usuário')
   }
-
   return (
     <div>
       <h1>Meu cadastro:</h1>
